@@ -1,0 +1,14 @@
+C:\Users\User\Documents\NELSO\Projeto_Restaurante\Projeto_Restaurante\bin\Debug\net8.0\Projeto_Restaurante.exe
+C:\Users\User\Documents\NELSO\Projeto_Restaurante\Projeto_Restaurante\bin\Debug\net8.0\Projeto_Restaurante.deps.json
+C:\Users\User\Documents\NELSO\Projeto_Restaurante\Projeto_Restaurante\bin\Debug\net8.0\Projeto_Restaurante.runtimeconfig.json
+C:\Users\User\Documents\NELSO\Projeto_Restaurante\Projeto_Restaurante\bin\Debug\net8.0\Projeto_Restaurante.dll
+C:\Users\User\Documents\NELSO\Projeto_Restaurante\Projeto_Restaurante\bin\Debug\net8.0\Projeto_Restaurante.pdb
+C:\Users\User\Documents\NELSO\Projeto_Restaurante\Projeto_Restaurante\obj\Debug\net8.0\Projeto_Restaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\NELSO\Projeto_Restaurante\Projeto_Restaurante\obj\Debug\net8.0\Projeto_Restaurante.AssemblyInfoInputs.cache
+C:\Users\User\Documents\NELSO\Projeto_Restaurante\Projeto_Restaurante\obj\Debug\net8.0\Projeto_Restaurante.AssemblyInfo.cs
+C:\Users\User\Documents\NELSO\Projeto_Restaurante\Projeto_Restaurante\obj\Debug\net8.0\Projeto_Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NELSO\Projeto_Restaurante\Projeto_Restaurante\obj\Debug\net8.0\Projeto_Restaurante.dll
+C:\Users\User\Documents\NELSO\Projeto_Restaurante\Projeto_Restaurante\obj\Debug\net8.0\refint\Projeto_Restaurante.dll
+C:\Users\User\Documents\NELSO\Projeto_Restaurante\Projeto_Restaurante\obj\Debug\net8.0\Projeto_Restaurante.pdb
+C:\Users\User\Documents\NELSO\Projeto_Restaurante\Projeto_Restaurante\obj\Debug\net8.0\Projeto_Restaurante.genruntimeconfig.cache
+C:\Users\User\Documents\NELSO\Projeto_Restaurante\Projeto_Restaurante\obj\Debug\net8.0\ref\Projeto_Restaurante.dll
